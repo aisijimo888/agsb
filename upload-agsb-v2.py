@@ -34,8 +34,8 @@ CUSTOM_DOMAIN_FILE = INSTALL_DIR / "custom_domain.txt" # 存储最终使用的�
 USER_NAME = "aisijimmo888"         # 用户名
 UUID = "a91b59b6-ade4-497d-b4e9-88d184c48048"                     # UUID，留空则自动生成
 PORT = 49999                  # Vmess端口，留空或0则自动生成
-DOMAIN = ""                   # 域名，留空则自动获取
-CF_TOKEN = ""                 # Cloudflare Token，留空则用Quick Tunnel
+DOMAIN = "nazwa.giveittome.eu.org"                   # 域名，留空则自动获取
+CF_TOKEN = "eyJhIjoiNjFhZmNkODE5YTMxNWI0ZjgwNjlhZDQzZmNiZDI0YTYiLCJ0IjoiNjRjMjQxNWMtZWQ4Ni00ZWRkLWJjNGYtMjliM2FlOWQ1NDlmIiwicyI6Ik5XTmlPVGxqWXpVdE5tVXdPQzAwT1RkbUxUaGpaREV0Wm1Rd05EQmhPR1ExTUdVMSJ9"                 # Cloudflare Token，留空则用Quick Tunnel
 # =========================================
 
 # 添加命令行参数解析
